@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Alexander Rakhlin</title>
+    <link>https://alexander-rakhlin.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on Alexander Rakhlin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 14 Dec 2017 15:33:42 +0300</lastBuildDate>
+    
+	<atom:link href="https://alexander-rakhlin.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pediatric Bone Age Assessment Using Deep Convolutional Neural Networks</title>
+      <link>https://alexander-rakhlin.github.io/publication/bone_age/</link>
+      <pubDate>Thu, 14 Dec 2017 15:33:42 +0300</pubDate>
+      
+      <guid>https://alexander-rakhlin.github.io/publication/bone_age/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

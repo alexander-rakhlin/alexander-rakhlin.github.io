@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 on Alexander Rakhlin</title>
+    <link>https://alexander-rakhlin.github.io/publication_types/4/</link>
+    <description>Recent content in 4 on Alexander Rakhlin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 14 Nov 2017 15:40:54 +0300</lastBuildDate>
+    
+	<atom:link href="https://alexander-rakhlin.github.io/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Diabetic Retinopathy detection through integration of Deep Learning classification framework</title>
+      <link>https://alexander-rakhlin.github.io/publication/drd/</link>
+      <pubDate>Tue, 14 Nov 2017 15:40:54 +0300</pubDate>
+      
+      <guid>https://alexander-rakhlin.github.io/publication/drd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

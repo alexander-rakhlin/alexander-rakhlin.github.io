@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Alexander Rakhlin</title>
-    <link>https://alexander-rakhlin.github.io/publication/</link>
-    <description>Recent content in Publications on Alexander Rakhlin</description>
+    <title>1 on Alexander Rakhlin</title>
+    <link>https://alexander-rakhlin.github.io/publication_types/1/</link>
+    <description>Recent content in 1 on Alexander Rakhlin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 Jun 2018 14:42:23 +0300</lastBuildDate>
     
-	<atom:link href="https://alexander-rakhlin.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alexander-rakhlin.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -36,24 +36,6 @@
       <pubDate>Wed, 14 Mar 2018 15:28:30 +0300</pubDate>
       
       <guid>https://alexander-rakhlin.github.io/publication/robots/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pediatric Bone Age Assessment Using Deep Convolutional Neural Networks</title>
-      <link>https://alexander-rakhlin.github.io/publication/bone_age/</link>
-      <pubDate>Thu, 14 Dec 2017 15:33:42 +0300</pubDate>
-      
-      <guid>https://alexander-rakhlin.github.io/publication/bone_age/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Diabetic Retinopathy detection through integration of Deep Learning classification framework</title>
-      <link>https://alexander-rakhlin.github.io/publication/drd/</link>
-      <pubDate>Tue, 14 Nov 2017 15:40:54 +0300</pubDate>
-      
-      <guid>https://alexander-rakhlin.github.io/publication/drd/</guid>
       <description></description>
     </item>
     

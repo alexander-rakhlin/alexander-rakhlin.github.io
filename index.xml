@@ -10,5 +10,50 @@
     <lastBuildDate>Sun, 20 May 2018 00:00:00 +0300</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Deep Convolutional Neural Networks for Breast Cancer Histology Image Analysis</title>
+      <link>https://alexander-rakhlin.github.io/publication/iciar2018/</link>
+      <pubDate>Thu, 14 Jun 2018 14:42:23 +0300</pubDate>
+      
+      <guid>https://alexander-rakhlin.github.io/publication/iciar2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Angiodysplasia Detection and Localization Using Deep Convolutional Neural Networks</title>
+      <link>https://alexander-rakhlin.github.io/publication/angiodysplasia/</link>
+      <pubDate>Wed, 14 Mar 2018 15:44:21 +0300</pubDate>
+      
+      <guid>https://alexander-rakhlin.github.io/publication/angiodysplasia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Instrument Segmentation in Robot-Assisted Surgery Using Deep Learning</title>
+      <link>https://alexander-rakhlin.github.io/publication/robots/</link>
+      <pubDate>Wed, 14 Mar 2018 15:28:30 +0300</pubDate>
+      
+      <guid>https://alexander-rakhlin.github.io/publication/robots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pediatric Bone Age Assessment Using Deep Convolutional Neural Networks</title>
+      <link>https://alexander-rakhlin.github.io/publication/bone_age/</link>
+      <pubDate>Thu, 14 Dec 2017 15:33:42 +0300</pubDate>
+      
+      <guid>https://alexander-rakhlin.github.io/publication/bone_age/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diabetic Retinopathy detection through integration of Deep Learning classification framework</title>
+      <link>https://alexander-rakhlin.github.io/publication/drd/</link>
+      <pubDate>Tue, 14 Nov 2017 15:40:54 +0300</pubDate>
+      
+      <guid>https://alexander-rakhlin.github.io/publication/drd/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
