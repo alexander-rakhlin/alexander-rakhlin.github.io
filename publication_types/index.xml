@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 14 Jun 2018 14:42:23 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 14 Mar 2018 15:44:21 +0300</lastBuildDate>
     
 	<atom:link href="https://alexander-rakhlin.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>1</title>
       <link>https://alexander-rakhlin.github.io/publication_types/1/</link>
-      <pubDate>Thu, 14 Jun 2018 14:42:23 +0300</pubDate>
+      <pubDate>Wed, 14 Mar 2018 15:44:21 +0300</pubDate>
       
       <guid>https://alexander-rakhlin.github.io/publication_types/1/</guid>
       <description></description>
@@ -36,6 +36,15 @@
       <pubDate>Tue, 14 Nov 2017 15:40:54 +0300</pubDate>
       
       <guid>https://alexander-rakhlin.github.io/publication_types/4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>7</title>
+      <link>https://alexander-rakhlin.github.io/publication_types/7/</link>
+      <pubDate>Thu, 14 Jun 2018 14:42:23 +0300</pubDate>
+      
+      <guid>https://alexander-rakhlin.github.io/publication_types/7/</guid>
       <description></description>
     </item>
     
