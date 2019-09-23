@@ -1,20 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
     
     <url>
     
-      <loc>https://alexander-rakhlin.github.io/publication_types/1/</loc>
-      <lastmod>2019-03-22T15:40:54+03:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://alexander-rakhlin.github.io/</loc>
-      <lastmod>2019-03-22T15:40:54+03:00</lastmod>
+      <loc>https://alexander-rakhlin.github.io/publication/colocai/</loc>
+      <lastmod>2019-09-04T15:40:54+03:00</lastmod>
     </url>
     
   
@@ -24,24 +16,6 @@
     
       <loc>https://alexander-rakhlin.github.io/publication/cellularity/</loc>
       <lastmod>2019-03-22T15:40:54+03:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://alexander-rakhlin.github.io/publication_types/</loc>
-      <lastmod>2019-03-22T15:40:54+03:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://alexander-rakhlin.github.io/publication_types/7/</loc>
-      <lastmod>2018-09-20T15:33:42+03:00</lastmod>
     </url>
     
   
@@ -94,15 +68,6 @@
     
     <url>
     
-      <loc>https://alexander-rakhlin.github.io/publication_types/4/</loc>
-      <lastmod>2017-11-14T15:40:54+03:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://alexander-rakhlin.github.io/publication/drd/</loc>
       <lastmod>2017-11-14T15:40:54+03:00</lastmod>
     </url>
@@ -139,7 +104,68 @@
     
     <url>
     
+      <loc>https://alexander-rakhlin.github.io/publication_types/1/</loc>
+      <lastmod>2019-03-22T15:40:54+03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://alexander-rakhlin.github.io/publication_types/2/</loc>
+      <lastmod>2019-09-04T15:40:54+03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://alexander-rakhlin.github.io/publication_types/4/</loc>
+      <lastmod>2017-11-14T15:40:54+03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://alexander-rakhlin.github.io/publication_types/7/</loc>
+      <lastmod>2018-09-20T15:33:42+03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://alexander-rakhlin.github.io/</loc>
+      <lastmod>2018-05-20T00:00:00+03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://alexander-rakhlin.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://alexander-rakhlin.github.io/publication_types/</loc>
+      <lastmod>2019-03-22T15:40:54+03:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -148,6 +174,7 @@
     <url>
     
       <loc>https://alexander-rakhlin.github.io/tags/</loc>
+      <priority>0</priority>
     </url>
     
   
